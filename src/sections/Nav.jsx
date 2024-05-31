@@ -5,7 +5,7 @@ import { hamburger } from '../assets/icons'
 import { TechKnow } from '../assets/images'
 const Nav = () => {
   return (
-    <header className='padding-x py-8  z-10 w-full fixed bg-white-400 z-50'>
+    <header className='padding-x py-8  w-full fixed bg-white-400 z-50'>
         <nav className='flex justify-between items-center max-container'>
             <div className=''>
             <a href="/">
